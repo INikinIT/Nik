@@ -29,4 +29,5 @@ def sum_list(my_list: list) -> int:
         result = result + elem
     return result
 
-print(sum_list([1, 2, 3, 4]))
+
+print(sum_list([1, 2, 3]))
