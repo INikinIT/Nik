@@ -6,7 +6,6 @@ class Input:
 
 
 search = Input('Учим ', 'Python')
-
 print(search.loc + search.text)
 
 
@@ -18,7 +17,6 @@ class Button:
 
 
 search = Button('Знаем ', 'Python')
-
 print(search.loc + search.text)
 
 
@@ -30,7 +28,6 @@ class Title:
 
 
 search = Title('Работаем с ', 'Python')
-
 print(search.loc + search.text)
 
 
@@ -42,5 +39,4 @@ class Link:
 
 
 search = Link('Пишем тесты на ', 'Python')
-
 print(search.loc + search.text)
