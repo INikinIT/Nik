@@ -22,7 +22,7 @@ print('Кнопка ' + catalog_msk.text + 'имеет ссылку ' + catalog_
 print(home.type)
 
 
-print(catalog_msk.type)
+print(catalog_msk.type, '\n')
 
 
 class ButtonTwo:
