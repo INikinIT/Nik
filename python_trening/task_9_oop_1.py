@@ -1,4 +1,5 @@
-class Input:
+from python_trening.task_9_cheks import Checks
+class Input(Checks):
 
     def __init__(self, loc, text):
         self.loc = loc
